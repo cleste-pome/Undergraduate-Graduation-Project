@@ -45,6 +45,7 @@
 #### 人物肢体与面部情绪识别
 #### ![图5 7](https://user-images.githubusercontent.com/45304468/172266192-f0c8d6d4-0c49-4047-b79e-9c684c766ad4.png)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=cleste-pome/Undergraduate-Graduation-Project&type=date&legend=top-left)](https://www.star-history.com/#cleste-pome/Undergraduate-Graduation-Project&type=date&legend=top-left)
 
 版权声明：本文为Github用户cleste的原创内容，遵循CC 4.0 BY-SA版权协议，转载请附上原始出处链接及本声明。
 原始链接：https://github.com/cleste-pome/Undergraduate-Graduation-Project
